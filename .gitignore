@@ -1,0 +1,4 @@
+venv/
+.stackql/
+pystackql/
+.ipynb_checkpoints/
